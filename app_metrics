@@ -1,0 +1,16 @@
+# Application Metrics Log
+# metric_name: metric_value
+total_requests: 150
+successful_requests: 145
+failed_requests: 5
+average_response_time_ms: 120
+max_response_time_ms: 350
+min_response_time_ms: 80
+memory_usage_mb: 256
+cpu_usage_percent: 75
+total_requests: 200
+successful_requests: 195
+failed_requests: 5
+average_response_time_ms: 110
+memory_usage_mb: 270
+cpu_usage_percent: 80
